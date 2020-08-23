@@ -1,2 +1,1 @@
-# BTree
-一套扩展了的B+树的源码（可以从叶级删除数据）
+A set of extended B+ tree source code (can delete data from the leaf level)
